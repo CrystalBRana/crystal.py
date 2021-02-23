@@ -10,9 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8f7a086-4ed8-46f4-922b-bdff3443f8a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pythonlab/sum_of_3_no.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a8f7a086-4ed8-46f4-922b-bdff3443f8a8" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/pythonlab/area_of_triangle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythonlab/sum_of_3_no.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythonlab/sum_of_3_no.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +28,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1oZ1cyJCA5LwB3UjcmFY3zkf2zs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -151,6 +152,14 @@
       <option name="presentableId" value="Default" />
       <updated>1613479381438</updated>
     </task>
+    <task id="LOCAL-००००१" summary="initial commit">
+      <created>1614051853086</created>
+      <option name="number" value="००००१" />
+      <option name="presentableId" value="LOCAL-००००१" />
+      <option name="project" value="LOCAL" />
+      <updated>1614051853086</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -164,6 +173,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613968332191">
@@ -198,9 +211,13 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1614051473101" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1613967674358">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1614052002972">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1613967674358" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1614052002972" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614052035411">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1614052035411" />
   </component>
 </project>
